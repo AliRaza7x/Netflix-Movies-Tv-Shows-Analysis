@@ -48,16 +48,6 @@ It demonstrates an end-to-end data analysis workflow: from storing raw data in a
 
 ---
 
-## 📂 Project Structure
-Netflix_Movie_Analysis/
-│
-├── data/ # Raw dataset (CSV file)
-├── notebooks/ # Jupyter notebooks for analysis
-│ └── Netflix_Movie_Analysis.ipynb
-├── main.py # Script for MySQL setup (tables, loading data)
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
 ## ⚡ How to Run
 1. Clone the repo:
    ```bash
