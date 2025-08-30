@@ -21,10 +21,10 @@ It demonstrates an end-to-end data analysis workflow: from storing raw data in a
 
 4. **Exploratory Data Analysis (EDA)**  
    - Number of **Movies vs TV Shows**  
-   - Content trends by **release year** and **country**  
+   - Content trends by **release year** and **country**
+   - Trend of titles that have been added to Netflix over the years
    - Most popular **genres/categories**  
    - **Top 15 Directors** and **Top 20 Actors**  
-   - Duration distribution of movies  
 
 5. **Visualization**  
    - Used **Matplotlib** and **Seaborn** for data storytelling  
