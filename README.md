@@ -51,8 +51,8 @@ It demonstrates an end-to-end data analysis workflow: from storing raw data in a
 ## ⚡ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/AliRaza7x/netflix-data-analytics.git
-   cd Netflix_Movie_Analysis
+   git clone https://github.com/AliRaza7x/Netflix-Movies-Tv-Shows-Analysis.git
+   cd Netflix-Movies-Tv-Shows-Analysis
 Install dependencies:
 pip install -r requirements.txt
 
